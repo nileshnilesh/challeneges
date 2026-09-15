@@ -15,7 +15,7 @@ class challenges_21 {
         while (num > 0){
             int digit = num %10;
             newNum = newNum*10+digit;
-            num /= 10;
+            num /=10;
         }return newNum;
     }
 }
