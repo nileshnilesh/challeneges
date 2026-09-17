@@ -16,6 +16,6 @@ class challenges_21 {
             int digit = num %10;
             newNum = newNum*10+digit;
             num /=10;
-        }return newNum;
+        } return newNum;
     }
 }

@@ -21,7 +21,7 @@ public class challenges_20 {
                 return false;
             }
             i++;
-        }return true;
+        } return true;
     }
 }
 
