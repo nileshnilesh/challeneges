@@ -5,7 +5,7 @@ public class challenges_04 {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number a: ");
         int a = input.nextInt();
-        System.out.print("Enter the number b: ");
+        System.out.print(" Enter the number b: ");
         int b = input.nextInt();
 
         int temp = 0;
