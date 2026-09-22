@@ -6,6 +6,6 @@ public class challengees_02 {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter your name :");
                 String name = input.nextLine();
-                System.out.print("Welcome "+name+" to kg coding");
+                System.out.print(" Welcome "+name+" to kg coding");
     }
 }
