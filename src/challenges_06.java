@@ -9,6 +9,6 @@ public class challenges_06 {
         float b = input.nextFloat();
 
         float result = a * b;
-        System.out.println("The Product of two number is " + result);
+        System.out.println("The Product of two number is " +  result);
     }
 }
