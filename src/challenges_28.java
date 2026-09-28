@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class challenges_28 {
+class challenges_28 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] numArr = arrayUtility.inputArray();
