@@ -12,7 +12,7 @@ public class challenges_05 {
         System.out.println("Subtraction: "+ (a-b));
         System.out.println("multiplication: "+ (a*b));
         System.out.println("Division: "+ (a/b));
-        System.out.println("Modules: "+ (a%b));
+        System.out.println("Modules: " + (a%b));
     }
 }
 

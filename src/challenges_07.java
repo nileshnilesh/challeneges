@@ -10,7 +10,7 @@ public class challenges_07 {
 
         //int result = 2*(l+b);
 
-        System.out.println("The perimeter of rectangle is : "+ 2*(l+b));
+        System.out.println("The perimeter of rectangle is : " + 2*(l+b));
 
     }
 }

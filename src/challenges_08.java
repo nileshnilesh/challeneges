@@ -9,7 +9,7 @@ public class challenges_08 {
         Double H = input.nextDouble();
 
         //Double result = 0.5*B*H;
-        System.out.println("Area of triangle is: "+ (0.5*B*H));
+        System.out.println("Area of triangle is: " + (0.5*B*H));
 
 
     }
