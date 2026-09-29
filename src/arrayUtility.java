@@ -14,4 +14,14 @@ public class arrayUtility {
         }return nums;
 
     }
+
+    public static void display(int[] numArray){
+        int i = 0;
+        while(i<numArray.length){
+            System.out.print(numArray[i]+ " ");
+
+            i++;
+        }
+        System.out.println();
+    }
 }
