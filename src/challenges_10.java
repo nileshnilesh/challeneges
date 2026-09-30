@@ -10,7 +10,7 @@ public class challenges_10 {
         }else if (num == 0) {
             System.out.println("The number is Zero.");
         }else{
-            System.out.println("The number is positive.");
+            System.out.println("The number is positive." );
         }
     }
 }
