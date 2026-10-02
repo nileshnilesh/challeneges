@@ -8,6 +8,6 @@ public class challenges_09 {
 
         double C = (F-32)*5/9;
 
-        System.out.println("Temperature in °c is: " + C);
+        System.out.println("Temperature in °c is: " +  C);
     }
 }
