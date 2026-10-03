@@ -1,7 +1,10 @@
-//package DSA_Questions;
-//
-//public class wealth_1672 {
-//    static void main(String[] args) {
+package DSA_Questions;
+
+public class wealth_1672 {
+    static void main(String[] args) {
+        System.out.println("Wealth problem");
+    }
+}
 //
 //    }
 //
