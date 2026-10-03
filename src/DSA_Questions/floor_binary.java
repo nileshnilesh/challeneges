@@ -1,15 +1,17 @@
 package DSA_Questions;
+// floor  is to return the greatest number >= target
 
 public class floor_binary {
     public static void main(String[] args) {
         int[] arr = {-3, -1, 2, 4, 6, 8, 9, 67, 577};
-        int target = 9;
-        int ans = binary(arr,target);
+        int target = 2;
+        int ans = binaryFloor(arr,target);
         System.out.println(ans);
     }
 
-    public static int binary(int[] arr , int target){
+    public static int binaryFloor(int[] arr , int target){
         int start = 0;
+
         int end = arr.length-1;
         boolean isAsc = arr[start]<arr[end];
 
