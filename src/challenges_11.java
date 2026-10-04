@@ -14,7 +14,7 @@ public class challenges_11 {
         }else if (marks>30 && marks<60) {
             System.out.println("Your grade is D.");
         }else {
-            System.out.println("Fail...");
+            System.out.println("Fail....");
 
         }
 
