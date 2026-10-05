@@ -8,7 +8,7 @@ public class challenges_13 {
         int num = input.nextInt();
         System.out.println();
         for (int i =0 ; i<11;i++){
-            System.out.println(num + " X " + i + " = " + num*i);
+            System.out.println(num + " X " + i + " = " + num * i);
         }
     }
 }
