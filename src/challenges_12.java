@@ -12,6 +12,6 @@ public class challenges_12 {
         System.out.println("Bitwise XOR is :"+ (a^b));
         System.out.println("Bitwise RIGHT SHIFT is :"+ (a>>b));
         System.out.println("Bitwise LEFT SHIFT is :"+ (a<<b));
-        System.out.println("Bitwise NEGATION is :"+ (~b));
+        System.out.println("Bitwise NEGATION is :"+  (~b));
     }
 }

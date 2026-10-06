@@ -13,6 +13,6 @@ public class challenges_14 {
             }
 
         }
-        System.out.println("The sum of odd number is : "+sum);
+        System.out.println("The sum of odd number is : " + sum);
     }
 }
