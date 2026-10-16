@@ -11,7 +11,7 @@ class Solution {
                     count++;
                 }
             }
-            if (count == 2) {
+            if (count == 2 ) {
                 dup = i;
             } else if (count == 0) {
                 missing = i;
