@@ -10,7 +10,7 @@ public class challenges_16 {
             sum = sum+i;
 
         }
-        System.out.println("Sum of the integers is: "+sum);
+        System.out.println("Sum of the integers is: "+ sum);
 
     }
 }
