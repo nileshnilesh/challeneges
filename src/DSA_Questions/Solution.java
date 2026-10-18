@@ -1,4 +1,6 @@
 package DSA_Questions;
+import java.util.List;
+import java.util.ArrayList;
 
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
