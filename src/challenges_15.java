@@ -9,7 +9,7 @@ public class challenges_15 {
         for(int i = num; i>0;i--){
             Sum += num*num-1;
         }
-        System.out.println("The factorical of a number is : "+Sum);
+        System.out.println("The factorical of a number is : " +Sum);
 
     }
 }
