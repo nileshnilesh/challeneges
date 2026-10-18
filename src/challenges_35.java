@@ -9,7 +9,8 @@ public class challenges_35 {
 //        pattern2(num);
 //          pattern3(num);
 //        pattern4(num);
-        pattern5(num);
+//        pattern5(num);
+        pattern6(num);
     }
     public static void pattern1(int num){
         for (int row = 1; row <= num; row++) {
@@ -54,4 +55,18 @@ public class challenges_35 {
             System.out.println();
         }
     }
+    public static void pattern6(int num){
+        for (int row = 1; row <= 2*num ; row++) {
+            int totalCols = row>num ? 2*num-row :row;
+            int totalSpaces = num-totalCols;
+            for (int s = 0; s <totalSpaces ; s++) {
+                System.out.print(" ");
+            }
+            for (int col = 1; col <= totalCols; col++) {
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
 }
+
