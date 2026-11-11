@@ -11,7 +11,7 @@ public class challenges_18 {
         System.out.println("The LCM of a number is :"+LCM);
 
     }
-    public static int lcm(int num1 ,int num2) {
+    public static int lcm(int num1 ,int num2 ) {
         int i = 1;
         while (true) {
             int factor = num1 * i;
